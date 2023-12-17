@@ -637,10 +637,10 @@ http://www.templatemo.com/tm-509-hydro
   -----------------------------------------*/
 
   #contact {
-    background: #00F260;  /* fallback for old browsers */
-    background: -webkit-linear-gradient(to right, #0575E6, #00F260);  /* Chrome 10-25, Safari 5.1-6 */
-    background: linear-gradient(to right, #0575E6, #00F260); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-  }
+    background: #092635;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #9EC8B9, #092635);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #9EC8B9, #092635); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    }
 
   #contact .section-title h2 {
     color: #ffffff;
@@ -783,7 +783,9 @@ http://www.templatemo.com/tm-509-hydro
     color: #ce3232;
   }
 
-
+  .social-icon a.icon-large {
+    font-size: 24px; /* Adjust the size as needed */
+}
   /*---------------------------------------
       MODAL FORM             
   -----------------------------------------*/
