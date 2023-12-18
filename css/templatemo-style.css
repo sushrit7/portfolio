@@ -288,6 +288,13 @@ http://www.templatemo.com/tm-509-hydro
     border-color: transparent;
   }
 
+  .navbar-nav li.divider {
+    height: 20px; /* Adjust the height of the divider as needed */
+    border-right: 1px solid #ccc; /* Adjust the color of the divider as needed */
+    margin-right: 10px; /* Adjust the spacing between dividers as needed */
+    margin-left: 10px; /* Adjust the spacing from the text as needed */
+  }
+  
   @media(min-width:768px) {
     .custom-navbar {
       border-bottom: 0;
