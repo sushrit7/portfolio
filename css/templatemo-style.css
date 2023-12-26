@@ -491,6 +491,15 @@ http://www.templatemo.com/tm-509-hydro
     opacity: 1;
   }
 
+  .projectname {
+    display: block; /* Ensure the text takes up the full width */
+    font-size: 18px; /* Set the font size */
+    font-weight: bold; /* Set the font weight to bold */
+    color: #333; /* Set the text color */
+    margin-top: 10px;
+    margin-bottom: 10px; /* Add some top margin for spacing */
+    /* Add other styles as needed */
+}
 
 
   /*---------------------------------------
